@@ -11,7 +11,8 @@ Skilled in Microsoft Excel, including using Pivot Tables, advanced formulas, and
 My [Excel_Repo](https://github.com/MadhuriPortfolio/Excel-Repo.git)
 
 ![SQL](https://img.shields.io/badge/SQL-%2300A9E0.svg?style=for-the-badge&logo=mysql&logoColor=white)   
-I have strong skills in writing optimized SQL queries for pulling and transforming data. I'm also experienced in creating stored procedures, views, and using joins to link data from multiple tables  
+I have strong skills in writing optimized SQL queries for pulling and transforming data. I'm also experienced in creating stored procedures, views, and using joins to link data from multiple tables   
+My [SQL_Repo](
 
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)   
 Experienced in developing interactive visualizations and dashboards with Tableau.
@@ -32,12 +33,19 @@ Proficient in data visualization using Matplotlib and Seaborn.
 I’m comfortable with version control systems like Git and GitHub
 
 
-![What I Learned](https://img.shields.io/badge/What%20I%20Learned-%23008B8B.svg?style=for-the-badge&logo=book&logoColor=white)
+![What I Learned](https://img.shields.io/badge/What%20I%20Learned-%23F1C232.svg?style=for-the-badge&logo=book&logoColor=white)  
+I have gained valuable skills in the following areas:
 - **Data Analysis**: Transform raw data into actionable insights through cleaning, exploration, and visualization.  
 - **Business Intelligence**: Develop interactive dashboards and dynamic reports to support decision-making.  
 - **Problem Solving**: Apply advanced calculations, statistical models, and logic to solve business challenges.  
 
----
+![What I Do](https://img.shields.io/badge/What%20I%20Do-%23008B8B.svg?style=for-the-badge&logo=rocket&logoColor=white)  
+As a QA (Quality Assurance) professional, your role involves:
+- **Testing Software:** Ensuring the software works as expected by running different tests (manual or automated).
+- **Finding Bugs:** Identifying issues or defects in the software and reporting them to the development team. 
+- **Collaborating:** Working closely with developers and product teams to understand requirements and improve quality.
+- **Ensuring Quality:** Verifying that the final product meets the quality standards before it’s released to users.
+
 
 # 🎯 Goals  
 * 📊 Currently working towards earning the PL-300: Microsoft Power BI Data Analyst certification*
