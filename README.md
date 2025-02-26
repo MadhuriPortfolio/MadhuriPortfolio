@@ -12,7 +12,7 @@ My [Excel_Repo](https://github.com/MadhuriPortfolio/Excel-Repo.git)
 
 ![SQL](https://img.shields.io/badge/SQL-%2300A9E0.svg?style=for-the-badge&logo=mysql&logoColor=white)   
 I have strong skills in writing optimized SQL queries for pulling and transforming data. I'm also experienced in creating stored procedures, views, and using joins to link data from multiple tables   
-My [SQL_Repo](
+My [SQL_Repo](https://github.com/MadhuriPortfolio/SQL-Repo.git)
 
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)   
 Experienced in developing interactive visualizations and dashboards with Tableau.
