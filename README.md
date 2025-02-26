@@ -7,7 +7,8 @@
 These are the tools and technologies I rely on to solve problems and deliver data-driven solutions:"
 
 ![Excel](https://img.shields.io/badge/Excel-%23339933.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)   
-Skilled in Microsoft Excel, including using Pivot Tables, advanced formulas, and data cleaning. Experienced in creating reports and dashboards with charts and conditional formatting to highlight key insights
+Skilled in Microsoft Excel, including using Pivot Tables, advanced formulas, and data cleaning. Experienced in creating reports and dashboards with charts and conditional formatting to highlight key insights    
+My [Excel_Repo](https://github.com/MadhuriPortfolio/Excel-Repo.git)
 
 ![SQL](https://img.shields.io/badge/SQL-%2300A9E0.svg?style=for-the-badge&logo=mysql&logoColor=white)   
 I have strong skills in writing optimized SQL queries for pulling and transforming data. I'm also experienced in creating stored procedures, views, and using joins to link data from multiple tables  
