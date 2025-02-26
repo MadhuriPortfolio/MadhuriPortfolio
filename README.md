@@ -8,6 +8,7 @@ I'm recent graduate of a Data Skills Bootcamp and I am looking to secure a role 
 
 * 🌍  I'm based in London
 * 🧠  I'm learning Python
+* 👀  I' am looking to secure a role as a data analyst
 * 🤝  I'm open to collaborating on I’m open to collaborating on projects where I can apply and further develop my skills in data analysis, Power BI, SQL and Microsoft Azure
 
 ### Technical Skills
@@ -51,7 +52,6 @@ Proficient in data visualization using Matplotlib and Seaborn.
     
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)   
 I’m comfortable with version control systems like Git and GitHub
-
 
 ![What I Learned](https://img.shields.io/badge/What%20I%20Learned-%23F1C232.svg?style=for-the-badge&logo=book&logoColor=white)  
 I have gained valuable skills in the following areas:
