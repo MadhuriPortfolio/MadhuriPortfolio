@@ -1,7 +1,7 @@
 
 # Madhuri  
 🔍 ** QA / Beginner Automation SDET  | Data Analyst Learner **  
-🌟Transitioning from QA to Data Analytics: Turning Insights into Action
+📈Transitioning from QA to Data Analytics: Turning Insights into Action
 
 ## 🛠️ Core Skills  
 These are the tools and technologies I rely on to solve problems and deliver data-driven solutions:"
