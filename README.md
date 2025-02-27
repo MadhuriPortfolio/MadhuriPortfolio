@@ -36,7 +36,8 @@ I have strong skills in writing optimized SQL queries for pulling and transformi
 My [SQL_Repo](https://github.com/MadhuriPortfolio/SQL-Repo.git)
 
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)   
-Experienced in developing interactive visualizations and dashboards with Tableau.
+Experienced in developing interactive visualizations and dashboards with Tableau.   
+My [Tableau_Repo](https://github.com/MadhuriPortfolio/Tableau-Repo.git)  
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)   
 Proficient in using DAX for complex calculations and measures.
@@ -48,10 +49,12 @@ Experienced in deploying data projects and managing cloud storage.
 
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)   
 Skilled in data manipulation and analysis using Pandas.
-Proficient in data visualization using Matplotlib and Seaborn.
-    
+Proficient in data visualization using Matplotlib and Seaborn.  
+My [Python_Repo](https://github.com/MadhuriPortfolio/Python-Repo.git)  
+
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)   
-I’m comfortable with version control systems like Git and GitHub
+I’m comfortable with version control systems like Git and GitHub   
+My [Github_Account](https://github.com/MadhuriPortfolio)   
 
 ![What I Learned](https://img.shields.io/badge/What%20I%20Learned-%23F1C232.svg?style=for-the-badge&logo=book&logoColor=white)  
 I have gained valuable skills in the following areas:
@@ -74,7 +77,7 @@ As a QA (Quality Assurance) professional, your role involves:
 
 # 🌐 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/madhuri-k-596195223/) 
-- [Portfolio](#) _(Add a link to your portfolio)_  
+- [[Portfolio](https://sites.google.com/view/madhuriportfolio1/)]
 
 
  
