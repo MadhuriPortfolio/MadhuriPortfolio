@@ -77,7 +77,7 @@ As a QA (Quality Assurance) professional, your role involves:
 
 # 🌐 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/madhuri-k-596195223/) 
-- [[Portfolio](https://sites.google.com/view/madhuriportfolio1/)]
+- [Portfolio](https://sites.google.com/view/madhuriportfolio1/)
 
 
  
