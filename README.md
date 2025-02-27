@@ -54,7 +54,6 @@ My [Python_Repo](https://github.com/MadhuriPortfolio/Python-Repo.git)
 
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)   
 I’m comfortable with version control systems like Git and GitHub   
-My [Github_Account](https://github.com/MadhuriPortfolio)   
 
 ![What I Learned](https://img.shields.io/badge/What%20I%20Learned-%23F1C232.svg?style=for-the-badge&logo=book&logoColor=white)  
 I have gained valuable skills in the following areas:
@@ -77,7 +76,6 @@ As a QA (Quality Assurance) professional, your role involves:
 
 # 🌐 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/madhuri-k-596195223/) 
-- [Portfolio](https://sites.google.com/view/madhuriportfolio1/)
-
+- [Portfolio](https://github.com/MadhuriPortfolio)
 
  
