@@ -41,11 +41,13 @@ My [Tableau_Repo](https://github.com/MadhuriPortfolio/Tableau-Repo.git)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)   
 Proficient in using DAX for complex calculations and measures.
-Exerienced in data modeling, relationships.  
+Exerienced in data modeling, relationships.   
+My [PowerBI_Repo](https://github.com/MadhuriPortfolio/Power-BI-Repo.git)  
 
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)   
 Familiar with Azure SQL Databases and cloud data solutions.   
-Experienced in deploying data projects and managing cloud storage.  
+Experienced in deploying data projects and managing cloud storage.   
+My [Azure_Repo](https://github.com/MadhuriPortfolio/Azure_Repo.git)  
 
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)   
 Skilled in data manipulation and analysis using Pandas.
@@ -70,7 +72,7 @@ As a QA (Quality Assurance) professional, your role involves:
 
 
 # 🎯 Goals  
-* 📊 Currently working towards earning the PL-300: Microsoft Power BI Data Analyst certification*
+* 📊 Currently enrolled in a Data Analytics Bootcamp, I'm building proficiency in data visualization tools like Power BI and Python.
 * 📝 Actively learning about data engineering, cloud technologies, and AI-powered analytics."
 
 
